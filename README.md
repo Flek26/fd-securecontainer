@@ -1,3 +1,5 @@
+FlekDev Discord: https://discord.gg/Dw7TF6R8zx
+
 # INSTALL 
 
 Dependencies:
